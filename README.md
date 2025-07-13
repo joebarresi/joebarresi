@@ -1,6 +1,5 @@
 # 💫 About Me:
-In December of 2023, I graduated from the University of Maryland with a Computer Science and Economics Degree.<br>I'm currently looking for new graduate roles starting this summer/fall!
-
+In December of 2023, I graduated from the University of Maryland with a Computer Science and Economics Degree.<br> Since then, I have been a full time developer at Amazon Web Services. I have also built cool side projects such as DishDive
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-barresi-umd/) 
